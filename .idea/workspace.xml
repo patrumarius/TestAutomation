@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="527d850e-5ec3-4e7a-926d-e26e4bf66cb1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/AdvancedCssExamplesIT.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/InputBy.java" afterPath="$PROJECT_DIR$/src/test/InputBy.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,12 +17,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="BasicLocatorsTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/BasicLocatorsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
-              <folding />
+            <state relative-caret-position="343">
+              <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -28,8 +32,8 @@
       <file leaf-file-name="OurFirstTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/OurFirstTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="300">
+              <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,47 +41,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BasicLocatorsTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/BasicLocatorsTest.java">
+      <file leaf-file-name="AdvancedCssExamplesIT.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/AdvancedCssExamplesIT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1800">
-              <caret line="80" column="94" lean-forward="false" selection-start-line="80" selection-start-column="94" selection-end-line="80" selection-end-column="94" />
+            <state relative-caret-position="293">
+              <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InputBy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/InputBy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-              <folding>
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Homework1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Homework1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -106,8 +77,10 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/BasicLocatorsTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/InputBy.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Homework1.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/test/java/Homework1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/homeworkone/AdvancedCssExamplesIT.java" />
+        <option value="$PROJECT_DIR$/src/test/java/AdvancedCssExamplesIT.java" />
       </list>
     </option>
   </component>
@@ -185,6 +158,14 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MariusPatru\IdeaProjects\Auto4\src\test" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -197,14 +178,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BasicLocatorsTest.findLogin">
-    <configuration name="BasicLocatorsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+  <component name="RunManager" selected="JUnit.AdvancedCssExamplesIT.findEmailInputTwoAttributes">
+    <configuration name="AdvancedCssExamplesIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="homeworkone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <module name="Auto4" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BasicLocatorsTest" />
+      <option name="MAIN_CLASS_NAME" value="homeworkone.AdvancedCssExamplesIT" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -218,14 +204,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="BasicLocatorsTest.findForgottenPasswordCSS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <configuration name="AdvancedCssExamplesIT.findEmailInputOneAttribute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="homeworkone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <module name="Auto4" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BasicLocatorsTest" />
-      <option name="METHOD_NAME" value="findForgottenPasswordCSS" />
+      <option name="MAIN_CLASS_NAME" value="homeworkone.AdvancedCssExamplesIT" />
+      <option name="METHOD_NAME" value="findEmailInputOneAttribute" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -238,14 +229,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="BasicLocatorsTest.findLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <configuration name="AdvancedCssExamplesIT.findEmailInputTwoAttributes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="homeworkone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <module name="Auto4" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BasicLocatorsTest" />
-      <option name="METHOD_NAME" value="findLogin" />
+      <option name="MAIN_CLASS_NAME" value="homeworkone.AdvancedCssExamplesIT" />
+      <option name="METHOD_NAME" value="findEmailInputTwoAttributes" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -258,14 +254,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="BasicLocatorsTest.findLoginButonCSS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <configuration name="AdvancedCssExamplesIT.findPasswordInputInfix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="homeworkone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <module name="Auto4" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BasicLocatorsTest" />
-      <option name="METHOD_NAME" value="findLoginButonCSS" />
+      <option name="MAIN_CLASS_NAME" value="homeworkone.AdvancedCssExamplesIT" />
+      <option name="METHOD_NAME" value="findPasswordInputInfix" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -278,14 +279,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="BasicLocatorsTest.findUserNameInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <configuration name="AdvancedCssExamplesIT.findPasswordInputPrefix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="homeworkone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <module name="Auto4" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BasicLocatorsTest" />
-      <option name="METHOD_NAME" value="findUserNameInput" />
+      <option name="MAIN_CLASS_NAME" value="homeworkone.AdvancedCssExamplesIT" />
+      <option name="METHOD_NAME" value="findPasswordInputPrefix" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -380,19 +386,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.BasicLocatorsTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.BasicLocatorsTest.findLoginButonCSS" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.BasicLocatorsTest.findForgottenPasswordCSS" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.BasicLocatorsTest.findUserNameInput" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.BasicLocatorsTest.findLogin" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.AdvancedCssExamplesIT.findEmailInputOneAttribute" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.AdvancedCssExamplesIT" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.AdvancedCssExamplesIT.findEmailInputTwoAttributes" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.AdvancedCssExamplesIT.findPasswordInputPrefix" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.AdvancedCssExamplesIT.findPasswordInputInfix" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.BasicLocatorsTest.findLogin" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.BasicLocatorsTest.findUserNameInput" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.BasicLocatorsTest.findForgottenPasswordCSS" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.BasicLocatorsTest.findLoginButonCSS" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.BasicLocatorsTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.AdvancedCssExamplesIT.findEmailInputTwoAttributes" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.AdvancedCssExamplesIT.findPasswordInputInfix" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.AdvancedCssExamplesIT.findPasswordInputPrefix" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.AdvancedCssExamplesIT.findEmailInputOneAttribute" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.AdvancedCssExamplesIT" />
       </list>
     </recent_temporary>
   </component>
@@ -410,32 +416,32 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BasicLocatorsTest - 2018.05.08 at 16h 33m 32s.xml">
-      <configuration name="BasicLocatorsTest" configurationId="JUnit" />
+    <history-entry file="AdvancedCssExamplesIT - 2018.05.14 at 13h 47m 15s.xml">
+      <configuration name="AdvancedCssExamplesIT" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BasicLocatorsTest - 2018.05.08 at 16h 36m 38s.xml">
-      <configuration name="BasicLocatorsTest" configurationId="JUnit" />
+    <history-entry file="AdvancedCssExamplesIT_findEmailInputOneAttribute - 2018.05.14 at 13h 47m 30s.xml">
+      <configuration name="AdvancedCssExamplesIT.findEmailInputOneAttribute" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BasicLocatorsTest_findForgottenPasswordCSS - 2018.05.08 at 17h 09m 41s.xml">
-      <configuration name="BasicLocatorsTest.findForgottenPasswordCSS" configurationId="JUnit" />
+    <history-entry file="AdvancedCssExamplesIT_findEmailInputTwoAttributes - 2018.05.14 at 13h 49m 45s.xml">
+      <configuration name="AdvancedCssExamplesIT.findEmailInputTwoAttributes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BasicLocatorsTest_findLogin - 2018.05.08 at 17h 20m 17s.xml">
-      <configuration name="BasicLocatorsTest.findLogin" configurationId="JUnit" />
+    <history-entry file="AdvancedCssExamplesIT_findEmailInputTwoAttributes - 2018.05.14 at 14h 13m 48s.xml">
+      <configuration name="AdvancedCssExamplesIT.findEmailInputTwoAttributes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BasicLocatorsTest_findLogin - 2018.05.08 at 17h 20m 57s.xml">
-      <configuration name="BasicLocatorsTest.findLogin" configurationId="JUnit" />
+    <history-entry file="AdvancedCssExamplesIT_findPasswordInputInfix - 2018.05.14 at 14h 02m 05s.xml">
+      <configuration name="AdvancedCssExamplesIT.findPasswordInputInfix" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BasicLocatorsTest_findLoginButonCSS - 2018.05.08 at 17h 09m 18s.xml">
-      <configuration name="BasicLocatorsTest.findLoginButonCSS" configurationId="JUnit" />
+    <history-entry file="AdvancedCssExamplesIT_findPasswordInputInfix - 2018.05.14 at 14h 03m 26s.xml">
+      <configuration name="AdvancedCssExamplesIT.findPasswordInputInfix" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BasicLocatorsTest_findLoginButton - 2018.05.08 at 16h 34m 46s.xml">
-      <configuration name="BasicLocatorsTest.findLoginButton" configurationId="JUnit" />
+    <history-entry file="AdvancedCssExamplesIT_findPasswordInputPrefix - 2018.05.14 at 13h 52m 29s.xml">
+      <configuration name="AdvancedCssExamplesIT.findPasswordInputPrefix" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BasicLocatorsTest_findLoginButton - 2018.05.08 at 16h 35m 16s.xml">
-      <configuration name="BasicLocatorsTest.findLoginButton" configurationId="JUnit" />
+    <history-entry file="AdvancedCssExamplesIT_findPasswordInputPrefix - 2018.05.14 at 13h 54m 26s.xml">
+      <configuration name="AdvancedCssExamplesIT.findPasswordInputPrefix" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BasicLocatorsTest_findLoginButton - 2018.05.08 at 16h 36m 08s.xml">
-      <configuration name="BasicLocatorsTest.findLoginButton" configurationId="JUnit" />
+    <history-entry file="AdvancedCssExamplesIT_findPasswordInputPrefix - 2018.05.14 at 13h 58m 59s.xml">
+      <configuration name="AdvancedCssExamplesIT.findPasswordInputPrefix" configurationId="JUnit" />
     </history-entry>
     <history-entry file="BasicLocatorsTest_findUserNameInput - 2018.05.08 at 17h 20m 05s.xml">
       <configuration name="BasicLocatorsTest.findUserNameInput" configurationId="JUnit" />
@@ -443,17 +449,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-1088" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26324326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -467,7 +475,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -476,7 +483,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -508,14 +517,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/InputBy.java">
+    <entry file="file://$PROJECT_DIR$/src/test/InputBy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -555,6 +561,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -563,50 +577,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/OurFirstTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Homework1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/BasicLocatorsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="80" column="94" lean-forward="false" selection-start-line="80" selection-start-column="94" selection-end-line="80" selection-end-column="94" />
+        <state relative-caret-position="343">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/InputBy.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/OurFirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        <state relative-caret-position="300">
+          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
           <folding>
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Homework1.java">
+    <entry file="file://$PROJECT_DIR$/src/test/InputBy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="250">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/test/java/AdvancedCssExamplesIT.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="293">
+          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
