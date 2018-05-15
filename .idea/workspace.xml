@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="527d850e-5ec3-4e7a-926d-e26e4bf66cb1" name="Default" comment="" />
+    <list default="true" id="527d850e-5ec3-4e7a-926d-e26e4bf66cb1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/CssEquivilantsIT.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/AdvancedXpathExamplesIT.java" afterPath="$PROJECT_DIR$/src/test/java/AdvancedXpathExamplesIT.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +41,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdvancedXpathExamplesIT.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AdvancedXpathExamplesIT.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/AdvancedXpathExamplesIT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="25" column="97" lean-forward="false" selection-start-line="25" selection-start-column="97" selection-end-line="25" selection-end-column="97" />
+            <state relative-caret-position="272">
+              <caret line="30" column="73" lean-forward="false" selection-start-line="30" selection-start-column="73" selection-end-line="30" selection-end-column="73" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CssEquivilantsIT.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CssEquivilantsIT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="40" column="61" lean-forward="false" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,6 +94,7 @@
         <option value="$PROJECT_DIR$/src/test/java/homeworkone/AdvancedCssExamplesIT.java" />
         <option value="$PROJECT_DIR$/src/test/java/AdvancedCssExamplesIT.java" />
         <option value="$PROJECT_DIR$/src/test/java/AdvancedXpathExamplesIT.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CssEquivilantsIT.java" />
       </list>
     </option>
   </component>
@@ -88,9 +105,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="264" />
-    <option name="y" value="-931" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="183" />
+    <option name="y" value="89" />
     <option name="width" value="1295" />
     <option name="height" value="695" />
   </component>
@@ -176,82 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AdvancedXpathExamplesIT.findElementWithText">
-    <configuration name="AdvancedCssExamplesIT.findEmailInputTwoAttributes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="homeworkone.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Auto4" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="homeworkone.AdvancedCssExamplesIT" />
-      <option name="METHOD_NAME" value="findEmailInputTwoAttributes" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="AdvancedCssExamplesIT.findPasswordInputInfix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="homeworkone.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Auto4" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="homeworkone.AdvancedCssExamplesIT" />
-      <option name="METHOD_NAME" value="findPasswordInputInfix" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="AdvancedCssExamplesIT.findPasswordInputPrefix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="homeworkone.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Auto4" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="homeworkone.AdvancedCssExamplesIT" />
-      <option name="METHOD_NAME" value="findPasswordInputPrefix" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
+  <component name="RunManager" selected="JUnit.CssEquivilantsIT.findEmailInput">
     <configuration name="AdvancedXpathExamplesIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="Auto4" />
@@ -280,6 +222,66 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="AdvancedXpathExamplesIT" />
       <option name="METHOD_NAME" value="findElementWithText" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="CssEquivilantsIT.findEmailInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Auto4" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CssEquivilantsIT" />
+      <option name="METHOD_NAME" value="findEmailInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="CssEquivilantsIT.findForgottenPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Auto4" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CssEquivilantsIT" />
+      <option name="METHOD_NAME" value="findForgottenPassword" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="CssEquivilantsIT.findLoginButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Auto4" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CssEquivilantsIT" />
+      <option name="METHOD_NAME" value="findLoginButton" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -374,19 +376,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.AdvancedCssExamplesIT.findEmailInputTwoAttributes" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.AdvancedCssExamplesIT.findPasswordInputPrefix" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.AdvancedCssExamplesIT.findPasswordInputInfix" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.AdvancedXpathExamplesIT" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.AdvancedXpathExamplesIT.findElementWithText" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.AdvancedXpathExamplesIT" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.AdvancedXpathExamplesIT.findElementWithText" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CssEquivilantsIT.findForgottenPassword" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CssEquivilantsIT.findLoginButton" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.CssEquivilantsIT.findEmailInput" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.AdvancedXpathExamplesIT.findElementWithText" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.AdvancedXpathExamplesIT" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.AdvancedCssExamplesIT.findEmailInputTwoAttributes" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.AdvancedCssExamplesIT.findPasswordInputInfix" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.AdvancedCssExamplesIT.findPasswordInputPrefix" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.CssEquivilantsIT.findEmailInput" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CssEquivilantsIT.findLoginButton" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CssEquivilantsIT.findForgottenPassword" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.AdvancedXpathExamplesIT.findElementWithText" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.AdvancedXpathExamplesIT" />
       </list>
     </recent_temporary>
   </component>
@@ -404,15 +406,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AdvancedCssExamplesIT_findPasswordInputPrefix - 2018.05.14 at 13h 52m 29s.xml">
-      <configuration name="AdvancedCssExamplesIT.findPasswordInputPrefix" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdvancedCssExamplesIT_findPasswordInputPrefix - 2018.05.14 at 13h 54m 26s.xml">
-      <configuration name="AdvancedCssExamplesIT.findPasswordInputPrefix" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdvancedCssExamplesIT_findPasswordInputPrefix - 2018.05.14 at 13h 58m 59s.xml">
-      <configuration name="AdvancedCssExamplesIT.findPasswordInputPrefix" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AdvancedXpathExamplesIT - 2018.05.15 at 15h 42m 12s.xml">
       <configuration name="AdvancedXpathExamplesIT" configurationId="JUnit" />
     </history-entry>
@@ -434,9 +427,18 @@
     <history-entry file="BasicLocatorsTest_findUserNameInput - 2018.05.08 at 17h 20m 05s.xml">
       <configuration name="BasicLocatorsTest.findUserNameInput" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CssEquivilantsIT_findEmailInput - 2018.05.15 at 15h 58m 45s.xml">
+      <configuration name="CssEquivilantsIT.findEmailInput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CssEquivilantsIT_findForgottenPassword - 2018.05.15 at 15h 56m 26s.xml">
+      <configuration name="CssEquivilantsIT.findForgottenPassword" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CssEquivilantsIT_findLoginButton - 2018.05.15 at 15h 57m 30s.xml">
+      <configuration name="CssEquivilantsIT.findLoginButton" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-1088" width="1936" height="1096" extended-state="6" />
+    <frame x="183" y="89" width="1295" height="695" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -448,11 +450,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5064865" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.60728747" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.49351352" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2827027" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43474647" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -691,8 +693,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/AdvancedXpathExamplesIT.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" column="97" lean-forward="false" selection-start-line="25" selection-start-column="97" selection-end-line="25" selection-end-column="97" />
+        <state relative-caret-position="272">
+          <caret line="30" column="73" lean-forward="false" selection-start-line="30" selection-start-column="73" selection-end-line="30" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CssEquivilantsIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="40" column="61" lean-forward="false" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

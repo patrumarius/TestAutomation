@@ -26,5 +26,9 @@ public class AdvancedXpathExamplesIT {
         WebElement elementWithText = driver.findElement(By.xpath("//*[contains(normalize-space(),'A paragraph with this text in bold.')]"));
     }
 
+    @Test
+    public void findElementWithDivText() throws Exception {
+        WebElement elementWithDivText = driver.findElement(By.xpath(""));
+    }
 
 }
