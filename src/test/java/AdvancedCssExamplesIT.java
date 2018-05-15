@@ -43,10 +43,10 @@ public class AdvancedCssExamplesIT {
         WebElement inputPassword = driver.findElement(By.cssSelector("[id$=il]"));
     }
 
-    /*@Test
+    @Test
     public void findPasswordInputInfix() throws Exception {
         WebElement inputPassword = driver.findElement(By.cssSelector("[id$=mai]"));
-    }*/
+    }
 
     @Test
     public void findEmailInputDirectDescendant() throws Exception {
