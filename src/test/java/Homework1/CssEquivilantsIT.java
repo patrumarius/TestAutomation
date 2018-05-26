@@ -1,3 +1,5 @@
+package Homework1;
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -38,7 +40,7 @@ public class CssEquivilantsIT {
 
     @Test
     public void findForgottenPasswordByTag() throws Exception {
-        WebElement link = driver.findElement(By.cssSelector(""));
+        WebElement link = driver.findElement(By.cssSelector("a"));
     }
 
 
