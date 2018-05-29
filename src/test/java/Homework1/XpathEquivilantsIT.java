@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class CssEquivilantsIT {
+public class XpathEquivilantsIT {
 
     private WebDriver driver;
 
@@ -24,25 +24,23 @@ public class CssEquivilantsIT {
     }
 
     @Test
-    public void findForgottenPassword() throws Exception {
-        WebElement link = driver.findElement(By.cssSelector("#change-password"));
+    public void forgottenPasswordXPath() {
+        WebElement forgottenPassword = driver.findElement(By.xpath("//*[@id='change-password']"));
     }
 
     @Test
-    public void findLoginButton() throws Exception {
-        WebElement link = driver.findElement(By.cssSelector(".btn-primary"));
+    public void buttonClassName() {
+        WebElement button = driver.findElement(By.xpath("//*[contains(concat(' ',normalize-space(@class),' '),'btn-primary')]")) ;
     }
 
     @Test
-    public void findEmailInput() throws Exception {
-        WebElement link = driver.findElement(By.cssSelector("*[name=email"));
+    public void emailInput(){
+        WebElement email = driver.findElement(By.xpath("//*[@name='email']"));
     }
 
     @Test
-    public void findForgottenPasswordByTag() throws Exception {
-        WebElement link = driver.findElement(By.cssSelector("a"));
+    public void forgottenPasswordLinkTag() {
+        WebElement forgottenPasswordLinkTag = driver.findElement(By.xpath("//a"));
     }
-
-
 
 }
