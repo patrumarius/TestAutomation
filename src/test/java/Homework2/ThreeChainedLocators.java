@@ -35,8 +35,8 @@ public class ThreeChainedLocators {
                 .findElement(By.id("t1"));
     }
 
-    @Test
+  /*  @Test
     public void thirdChainedLocator() {
         WebElement butonThirdChainedLocator = driver.findElement(By.name("hearAbout")).findElement(By.linkText("Friend"));
-    }
+    }*/
 }
