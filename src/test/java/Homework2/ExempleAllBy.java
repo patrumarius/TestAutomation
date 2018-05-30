@@ -26,7 +26,7 @@ public class ExempleAllBy {
 
     @Test
     public void testAllBy1() {
-        WebElement elementAllByOne = driver.findElement(AllBy.all(By.tagName("button"),  By.className("btn-primary")));
+        WebElement elementAllByOne = driver.findElement(AllBy.all(By.tagName("button"), By.className("btn-primary")));
     }
 
     @Test
