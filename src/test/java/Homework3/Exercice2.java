@@ -1,14 +1,12 @@
-package MeetingThree;
+package Homework3;
 
-import javafx.scene.web.WebView;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class WyswygInputIT {
+public class Exercice2 {
 
     private ChromeDriver driver;
 
@@ -24,18 +22,25 @@ public class WyswygInputIT {
     }*/
 
     @Test
-    public void testWyswyg() {
+    public void testItalicSendKeys() {
         WebElement editorFrame = driver.findElement(By.id("editor_ifr"));
         driver.switchTo().frame(editorFrame);
         WebElement body = driver.findElement(By.tagName("body"));
         body.clear();
-        body.sendKeys("A paragraph of text, some of which is ");
-
+        body.sendKeys("A paragraph of text, ");
         driver.switchTo().defaultContent();
         driver.findElement(By.cssSelector(".mce-i-italic")).click();
         driver.switchTo().frame(editorFrame);
-        body.sendKeys("italics");
+        body.sendKeys("which contains");
         driver.switchTo().defaultContent();
         driver.findElement(By.cssSelector(".mce-i-italic")).click();
+        driver.switchTo().frame(editorFrame);
+        driver.findElement(By.tagName("body"));
+        body.sendKeys(" text in");
+        driver.switchTo().defaultContent();
+        driver.findElement(By.cssSelector(".mce-i-italic")).click();
+        driver.switchTo().frame(editorFrame);
+        driver.findElement(By.tagName("body"));
+        body.sendKeys(" italic");
     }
 }
