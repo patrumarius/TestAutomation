@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="527d850e-5ec3-4e7a-926d-e26e4bf66cb1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Homework4/Exercice3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Homework4/Exercice4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Homework4/Exercice5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Homework4/Exercice6.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,7 +43,7 @@
       <file leaf-file-name="Exercice1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Homework4/Exercice1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
+            <state relative-caret-position="240">
               <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -53,8 +55,8 @@
       <file leaf-file-name="Exercice2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Homework4/Exercice2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="106">
+              <caret line="35" column="15" lean-forward="false" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,11 +64,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercice3.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Exercice3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Homework4/Exercice3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="29" column="48" lean-forward="false" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+            <state relative-caret-position="275">
+              <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercice4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Homework4/Exercice4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercice5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Homework4/Exercice5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercice6.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Homework4/Exercice6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="31" column="54" lean-forward="false" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,6 +139,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>asser</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -154,6 +193,9 @@
         <option value="$PROJECT_DIR$/src/test/java/Homework4/Exercice2.java" />
         <option value="$PROJECT_DIR$/src/test/java/Homework4/Exercice1.java" />
         <option value="$PROJECT_DIR$/src/test/java/Homework4/Exercice3.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Homework4/Exercice4.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Homework4/Exercice5.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Homework4/Exercice6.java" />
       </list>
     </option>
   </component>
@@ -266,7 +308,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Exercice3.verifyInvisible">
+  <component name="RunManager" selected="JUnit.Exercice6.ex6">
     <configuration name="Exercice2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -292,81 +334,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="Exercice2.verifyPresence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Homework4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Auto4" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Homework4" />
-      <option name="MAIN_CLASS_NAME" value="Homework4.Exercice2" />
-      <option name="METHOD_NAME" value="verifyPresence" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="Exercice2.verifyPresenceEl1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Homework4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Auto4" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Homework4" />
-      <option name="MAIN_CLASS_NAME" value="Homework4.Exercice2" />
-      <option name="METHOD_NAME" value="verifyPresenceEl1" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="Exercice2.verifyPresenceEl3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Homework4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Auto4" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Homework4" />
-      <option name="MAIN_CLASS_NAME" value="Homework4.Exercice2" />
-      <option name="METHOD_NAME" value="verifyPresenceEl3" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration name="Exercice3.verifyInvisible" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -380,6 +347,81 @@
       <option name="PACKAGE_NAME" value="Homework4" />
       <option name="MAIN_CLASS_NAME" value="Homework4.Exercice3" />
       <option name="METHOD_NAME" value="verifyInvisible" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Exercice4.allText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Homework4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Auto4" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Homework4" />
+      <option name="MAIN_CLASS_NAME" value="Homework4.Exercice4" />
+      <option name="METHOD_NAME" value="allText" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Exercice5.textBold" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Homework4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Auto4" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Homework4" />
+      <option name="MAIN_CLASS_NAME" value="Homework4.Exercice5" />
+      <option name="METHOD_NAME" value="textBold" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Exercice6.ex6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Homework4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Auto4" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Homework4" />
+      <option name="MAIN_CLASS_NAME" value="Homework4.Exercice6" />
+      <option name="METHOD_NAME" value="ex6" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -474,19 +516,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.Exercice2.verifyPresence" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.Exercice2.verifyPresenceEl1" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.Exercice2.verifyPresenceEl3" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.Exercice2" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.Exercice3.verifyInvisible" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.Exercice2" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.Exercice3.verifyInvisible" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.Exercice4.allText" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.Exercice5.textBold" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Exercice6.ex6" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.Exercice3.verifyInvisible" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Exercice2" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.Exercice2.verifyPresenceEl1" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.Exercice2.verifyPresenceEl3" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.Exercice2.verifyPresence" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Exercice6.ex6" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Exercice5.textBold" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Exercice4.allText" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.Exercice3.verifyInvisible" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Exercice2" />
       </list>
     </recent_temporary>
   </component>
@@ -504,35 +546,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Exercice1_verifyStyle5 - 2018.06.05 at 14h 29m 41s.xml">
-      <configuration name="Exercice1.verifyStyle5" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Exercice1_verifyStyle5 - 2018.06.05 at 14h 30m 07s.xml">
-      <configuration name="Exercice1.verifyStyle5" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Exercice1_verifyStyle5 - 2018.06.05 at 14h 30m 39s.xml">
-      <configuration name="Exercice1.verifyStyle5" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Exercice1_verifyStyle6 - 2018.06.05 at 14h 31m 55s.xml">
-      <configuration name="Exercice1.verifyStyle6" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Exercice2 - 2018.06.05 at 14h 55m 34s.xml">
       <configuration name="Exercice2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Exercice2_verifyPresence - 2018.06.05 at 14h 41m 11s.xml">
-      <configuration name="Exercice2.verifyPresence" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Exercice2_verifyPresenceEl1 - 2018.06.05 at 14h 48m 21s.xml">
-      <configuration name="Exercice2.verifyPresenceEl1" configurationId="JUnit" />
     </history-entry>
     <history-entry file="Exercice2_verifyPresenceEl1 - 2018.06.05 at 14h 54m 47s.xml">
       <configuration name="Exercice2.verifyPresenceEl1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Exercice2_verifyPresenceEl3 - 2018.06.05 at 14h 50m 32s.xml">
-      <configuration name="Exercice2.verifyPresenceEl3" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Exercice2_verifyPresenceEl3 - 2018.06.05 at 14h 51m 03s.xml">
       <configuration name="Exercice2.verifyPresenceEl3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercice3_verifyInvisible - 2018.06.05 at 15h 08m 02s.xml">
+      <configuration name="Exercice3.verifyInvisible" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercice4_allText - 2018.06.05 at 15h 16m 33s.xml">
+      <configuration name="Exercice4.allText" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercice5_textBold - 2018.06.05 at 15h 24m 12s.xml">
+      <configuration name="Exercice5.textBold" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercice5_textBold - 2018.06.05 at 15h 24m 42s.xml">
+      <configuration name="Exercice5.textBold" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercice6_ex6 - 2018.06.05 at 15h 36m 04s.xml">
+      <configuration name="Exercice6.ex6" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercice6_ex6 - 2018.06.05 at 15h 36m 46s.xml">
+      <configuration name="Exercice6.ex6" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercice6_ex6 - 2018.06.05 at 15h 37m 09s.xml">
+      <configuration name="Exercice6.ex6" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -556,7 +598,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32818073" sideWeight="0.5064865" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5022936" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5022936" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35779816" sideWeight="0.49351352" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -623,35 +665,11 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="13" />
+      <option name="time" value="14" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/HelperClasses/TDBy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MeetingTwo/OurFirstTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Homework1/AdvancedCssExamplesIT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/MeetingTwo/OurFirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -1006,8 +1024,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Homework4/Exercice1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
+        <state relative-caret-position="240">
           <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Homework4/Exercice4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Homework4/Exercice3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1016,18 +1052,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Homework4/Exercice2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="106">
+          <caret line="35" column="15" lean-forward="false" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Homework4/Exercice3.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Homework4/Exercice5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="29" column="48" lean-forward="false" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+        <state relative-caret-position="75">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Homework4/Exercice6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="31" column="54" lean-forward="false" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
