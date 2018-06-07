@@ -20,9 +20,10 @@ public class Exercice4 {
 
     @After
     public void tearDown() throws Exception {
-        driver.quit();
+        //driver.quit();
     }
 
+    //Question - explicatie
     @Test
     public void allText(){
         String[] text = driver.getPageSource().split("\r\n");

@@ -25,6 +25,7 @@ public class Exercice5 {
         driver.quit();
     }
 
+    //Question - explicatie
     @Test
     public void textBold(){
         WebElement text = driver.findElement(By.xpath("*[contains(normalize-space(.), 'A paragraph with this text in bold.')]"));
