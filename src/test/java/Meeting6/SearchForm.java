@@ -36,4 +36,7 @@ public class SearchForm {
         return textInput;
     }
 
+    //comentariu cu privire la ce git folosesc
+    //alt comentariu
+    ////
 }
