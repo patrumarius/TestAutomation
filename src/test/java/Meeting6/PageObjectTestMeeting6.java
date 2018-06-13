@@ -1,11 +1,15 @@
 package Meeting6;
 
 import org.junit.After;
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+
+import static org.junit.Assert.assertEquals;
+
 
 public class PageObjectTestMeeting6 {
 
@@ -21,7 +25,7 @@ public class PageObjectTestMeeting6 {
 
     @After
     public void tearDown() throws Exception {
-        driver.quit();
+        //driver.quit();
     }
 
     @Test
@@ -37,5 +41,15 @@ public class PageObjectTestMeeting6 {
     public void testSearchForm(){
         SearchForm searchForm = new SearchForm(driver);
         searchForm.setQuery("pisici");
+        String myText = searchForm.returnInputText();
+        assertEquals(myText,"");
+    }
+
+    @Test
+    public void testTitleSearchForm(){
+        SearchForm searchForm = new SearchForm(driver);
+        searchForm.setQuery("pisici");
+        String myText = searchForm.returnInputText();
+        assertEquals(myText,"");
     }
 }
