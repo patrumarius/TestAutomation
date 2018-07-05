@@ -12,6 +12,8 @@ import org.springframework.test.context.support.DependencyInjectionTestExecution
 
 import javax.inject.Inject;
 
+import java.net.URI;
+
 import static org.junit.Assert.assertEquals;
 
 @RunWith(SpringJUnit4ClassRunner.class)
@@ -21,10 +23,13 @@ public class ScreenshotIT {
     @Inject
     private WebDriver driver;
 
+    @Inject
+    private URI baseUrl;
+
     @Test
     public void homePageShouldHaveCorrectTitle() throws Exception {
 
-        driver.get("/");
+        driver.get(baseUrl + "/index.html");
 
         WebElement heading = driver.findElement(By.cssSelector("h1"));
 

@@ -89,7 +89,7 @@ public class WebDriverConfig {
     }
 
     @Bean
-    public URI baseUrl(@Value("${webdriver.baseUrl:http://localhost:8080}")URI value){
+    public URI baseUrl(@Value("${webdriver.baseUrl:localhost:8080}")URI value){
         return value;
     }
 }
