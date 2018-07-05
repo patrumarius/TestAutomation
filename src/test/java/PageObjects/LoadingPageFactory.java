@@ -22,6 +22,7 @@ public class LoadingPageFactory {
                 );
             }
         }
+
         String xpath = verify.xpath();
         if(!expectedPageTitle.equals(Verify.INVALID_XPATH)){
             if(driver.findElements(By.xpath(xpath)).isEmpty()){
