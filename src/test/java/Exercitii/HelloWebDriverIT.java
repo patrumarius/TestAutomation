@@ -29,6 +29,7 @@ public class HelloWebDriverIT {
     public void helloWebDriver() throws Exception{
         driver.get("http://localhost:8080/hello-webdriver.html");
         WebElement pageHeading = driver.findElement(By.tagName("h1"));
+        System.out.println("Commit de acasa");
 
         assertEquals("Hello WebDriver!",pageHeading.getText());
     }
