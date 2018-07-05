@@ -14,4 +14,6 @@ public @interface Verify {
     String title() default INVALID_TITLE;
 
     String xpath() default INVALID_XPATH;
+
+    //comentariu merge
 }
