@@ -1,6 +1,6 @@
 #Ignore these directories
 /target
-.idea
+workspace.xml
 
 
 
